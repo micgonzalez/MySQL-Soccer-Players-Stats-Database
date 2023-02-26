@@ -2,7 +2,7 @@
 
 # Introduction
 
-This repository is based on pulling data from a remote MySQL database. This was a freelance project for a soccer facebook group. This folder will include the original Jupyter Notebook file with a PDF version, and a PDF version from the report.   
+This repository is based on pulling data from a remote MySQL database. This was a freelance project for a soccer facebook group. It will include the original Jupyter Notebook file with a PDF version, and a PDF version from the report.   
 
 # Preview
 

@@ -1,4 +1,4 @@
-# MySQL-Soccer-Players-Stats-Database
+# MySQL Soccer Players Stats Database
 
 # Introduction
 
